@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Talas_Belediyesi_HareketAmirligi_Takip", "Talas_Belediyesi_HareketAmirligi_Takip\Talas_Belediyesi_HareketAmirligi_Takip.csproj", "{E492E8D5-B0E5-42EF-AD84-2730F9059C3A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "E-Form Takip", "E-Form Takip\E-Form Takip.vdproj", "{6E63F6AF-B487-4CFD-80B5-24FBC094E0B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E492E8D5-B0E5-42EF-AD84-2730F9059C3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E492E8D5-B0E5-42EF-AD84-2730F9059C3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E492E8D5-B0E5-42EF-AD84-2730F9059C3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E492E8D5-B0E5-42EF-AD84-2730F9059C3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E63F6AF-B487-4CFD-80B5-24FBC094E0B1}.Debug|Any CPU.ActiveCfg = Debug
+		{6E63F6AF-B487-4CFD-80B5-24FBC094E0B1}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E33A306D-538D-418E-9033-CF996B076ACE}
+	EndGlobalSection
+EndGlobal
